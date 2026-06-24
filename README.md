@@ -54,7 +54,7 @@ DynamoDB
 
 ### Website
 
-(Add your S3 website URL here)
+http://arjun-cloud-resume-2026.s3-website.ap-south-1.amazonaws.com
 
 ### API Endpoint
 
