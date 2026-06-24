@@ -73,3 +73,24 @@ Screenshots will be added soon.
 **Arjun Yadav**
 
 AWS Cloud Engineer
+---
+
+## Screenshots
+
+### Website Homepage
+![Website](screenshots/website-homepage.png.png)
+
+### Amazon S3 Static Hosting
+![S3](screenshots/s3-hosting.png.png)
+
+### AWS Lambda Function
+![Lambda](screenshots/lambda-function.png.png)
+
+### DynamoDB Database
+![DynamoDB](screenshots/dynamodb-table.png.png)
+
+### API Gateway
+![API Gateway](screenshots/api-gateway.png.png)
+
+### API Response
+![API Response](screenshots/api-response.png.png)
