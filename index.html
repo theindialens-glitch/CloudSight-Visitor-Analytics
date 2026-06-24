@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Arjun Yadav - AWS Cloud Resume</title>
+</head>
+<body>
+    <h1>Arjun Yadav</h1>
+    <h2>AWS Cloud Engineer</h2>
+    <p>Building Cloud Projects on AWS</p>
+
+    <p>Visitor Count: <span id="count">Loading...</span></p>
+
+    <script>
+        fetch("https://b5wom3w3pd.execute-api.ap-south-1.amazonaws.com/count")
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById("count").innerText = data.count;
+            })
+            .catch(error => {
+                console.error(error);
+                document.getElementById("count").innerText = "Error";
+            });
+    </script>
+</body>
+</html>
