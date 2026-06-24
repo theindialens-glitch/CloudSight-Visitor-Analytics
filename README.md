@@ -62,11 +62,6 @@ https://b5wom3w3pd.execute-api.ap-south-1.amazonaws.com/count
 
 ---
 
-## Screenshots
-
-Screenshots will be added soon.
-
----
 
 ## Author
 
